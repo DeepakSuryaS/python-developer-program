@@ -1,0 +1,1 @@
+Uh, oh!rating seek and tell functions.

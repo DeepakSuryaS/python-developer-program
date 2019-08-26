@@ -1,0 +1,11 @@
+What is this file?
+This is a sample text file containing some sample text.
+This is a sample line.
+Hi, I'm another one.
+oh, this is another one.
+And I, am the last one.
+Just checking the r+ mode.
+
+Just checking the r+ mode.
+
+Just checking the r+ mode.
