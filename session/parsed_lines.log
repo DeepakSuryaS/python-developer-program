@@ -1,0 +1,478 @@
+INFO UTILITIES /Volumes/ServerHD2/buildagent/workspace/200615/client_ios_sfb/dependencies/client-shared_framework_sfbplatform/src/dev/lyncMobile/platform/tracing/privateIos/CMTrace.mm/173:Version Information 6.12.0.65
+2016-12-20 13:16:52.303 SfB[417:1af74bc40] INFO UTILITIES CTimer.cpp:657 TimerMap is created 
+2016-12-20 13:16:52.342 SfB[417:1af74bc40] INFO UI SFBAppDelegate.mm:69 Application will finish launching with options
+2016-12-20 13:16:52.345 SfB[417:1af74bc40] INFO UTILITIES CStorageManager.mm:146 Creating StorageManager
+2016-12-20 13:16:52.347 SfB[417:1af74bc40] INFO UTILITIES CStorageManager.mm:187 Initializing StorageManager
+2016-12-20 13:16:52.357 SfB[417:1af74bc40] INFO APPLICATION CApplication.cpp:3400 Initialize Internal Begin
+2016-12-20 13:16:52.361 SfB[417:1af74bc40] INFO UTILITIES COsInformation.mm:398 User UI language identifier en was mapped to en-US 1033
+2016-12-20 13:16:52.362 SfB[417:1af74bc40] INFO UTILITIES COsInformation.mm:106 Device Version Info - Model=iPhone, HardwareModel=iPhone9,3, SystemName=iOS, SystemVersion=10.1
+2016-12-20 13:16:52.362 SfB[417:1af74bc40] VERBOSE APPLICATION CApplication.cpp:3415 Initialize Internal -- App State Query Established
+2016-12-20 13:16:52.363 SfB[417:1af74bc40] INFO UTILITIES CNetworkMonitor.cpp:70 Successfully started listening to network events
+2016-12-20 13:16:52.364 SfB[417:1af74bc40] INFO UTILITIES CNetworkMonitor.cpp:229 Reachabilility Flags IsWWAN(0):Reachable(1):TransientConnection(0):ConnectionRequired(0):ConnectionOnTraffic(0):InterventionRequired(0):ConnectionOnDemand(0):IsLocalAddress(0):IsDirect(0)
+2016-12-20 13:16:52.364 SfB[417:1af74bc40] INFO UTILITIES CNetworkMonitor.cpp:198 Updated networkAvailableToConnect(NoNetwork) -> WiFi, isInAirplaneMode(0) -> 0
+2016-12-20 13:16:52.364 SfB[417:1af74bc40] INFO UTILITIES CTimer.cpp:227 Created timer instance (0x70286428) for runloop (0x7017e780)
+2016-12-20 13:16:52.364 SfB[417:1af74bc40] INFO TRANSPORT CEventChannelManager.cpp:806 Received network monitor event so restarting event channel.
+2016-12-20 13:16:52.364 SfB[417:1af74bc40] INFO TRANSPORT CEventChannelManager.cpp:536 Moving the event channel aggressive mode.
+2016-12-20 13:16:52.365 SfB[417:1af74bc40] VERBOSE APPLICATION CApplication.cpp:3424 Initialize Internal -- Done with Network Monitor
+2016-12-20 13:16:52.365 SfB[417:1af74bc40] VERBOSE APPLICATION CApplication.cpp:3433 Initialize Internal -- Done with Activity Monitor
+2016-12-20 13:16:52.375 SfB[417:1af74bc40] INFO APPLICATION CClientTelemetryProvider.cpp:137 Telemetry provider: 07bbbca6edf344ea898955b4c3cbcb65-da7ac5d7-0141-4448-973e-e223e01dbf4b-7296
+2016-12-20 13:16:52.376 SfB[417:1af74bc40] INFO TRANSPORT CRequestManager.cpp:114 Creating RequestManager with cookieHandling = 1
+2016-12-20 13:16:52.376 SfB[417:1af74bc40] INFO TRANSPORT CHttpStreamPool.cpp:74 Allocating persistent connection range (0-4) and dedicated persistent connection range (5-5) for UcwaSession.
+2016-12-20 13:16:52.377 SfB[417:1af74bc40] INFO TRANSPORT CRequestManager.cpp:114 Creating RequestManager with cookieHandling = 1
+2016-12-20 13:16:52.377 SfB[417:1af74bc40] INFO TRANSPORT CHttpStreamPool.cpp:74 Allocating persistent connection range (6-7) and dedicated persistent connection range (-1--1) for UcwaAutoDiscoverySession.
+2016-12-20 13:16:52.377 SfB[417:1af74bc40] INFO TRANSPORT CRequestManager.cpp:114 Creating RequestManager with cookieHandling = 1
+2016-12-20 13:16:52.377 SfB[417:1af74bc40] INFO TRANSPORT CHttpStreamPool.cpp:74 Allocating persistent connection range (8-8) and dedicated persistent connection range (-1--1) for JoinLauncherSession.
+2016-12-20 13:16:52.378 SfB[417:1af74bc40] INFO TRANSPORT CRequestManager.cpp:114 Creating RequestManager with cookieHandling = 1
+2016-12-20 13:16:52.378 SfB[417:1af74bc40] INFO TRANSPORT CHttpStreamPool.cpp:74 Allocating persistent connection range (9-9) and dedicated persistent connection range (-1--1) for EwsSession.
+2016-12-20 13:16:52.378 SfB[417:1af74bc40] INFO TRANSPORT CRequestManager.cpp:114 Creating RequestManager with cookieHandling = 1
+2016-12-20 13:16:52.378 SfB[417:1af74bc40] INFO TRANSPORT CHttpStreamPool.cpp:74 Allocating persistent connection range (10-10) and dedicated persistent connection range (-1--1) for EwsAutoDiscoverSession.
+2016-12-20 13:16:52.378 SfB[417:1af74bc40] INFO TRANSPORT CRequestManager.cpp:114 Creating RequestManager with cookieHandling = 1
+2016-12-20 13:16:52.379 SfB[417:1af74bc40] INFO TRANSPORT CHttpStreamPool.cpp:74 Allocating persistent connection range (11-11) and dedicated persistent connection range (-1--1) for HttpFileDownloadSession.
+2016-12-20 13:16:52.379 SfB[417:1af74bc40] INFO TRANSPORT CRequestManager.cpp:114 Creating RequestManager with cookieHandling = 1
+2016-12-20 13:16:52.379 SfB[417:1af74bc40] INFO TRANSPORT CHttpStreamPool.cpp:74 Allocating persistent connection range (12-12) and dedicated persistent connection range (-1--1) for CpsSession.
+2016-12-20 13:16:52.379 SfB[417:1af74bc40] INFO TRANSPORT CRequestManager.cpp:114 Creating RequestManager with cookieHandling = 1
+2016-12-20 13:16:52.380 SfB[417:1af74bc40] INFO TRANSPORT CHttpStreamPool.cpp:74 Allocating persistent connection range (13-13) and dedicated persistent connection range (-1--1) for PsomSession.
+2016-12-20 13:16:52.380 SfB[417:1af74bc40] INFO TRANSPORT CRequestManager.cpp:114 Creating RequestManager with cookieHandling = 1
+2016-12-20 13:16:52.381 SfB[417:1af74bc40] INFO TRANSPORT CHttpStreamPool.cpp:74 Allocating persistent connection range (14-14) and dedicated persistent connection range (-1--1) for WebTicketSession.
+2016-12-20 13:16:52.381 SfB[417:1af74bc40] INFO TRANSPORT CRequestManager.cpp:114 Creating RequestManager with cookieHandling = 1
+2016-12-20 13:16:52.381 SfB[417:1af74bc40] INFO TRANSPORT CHttpStreamPool.cpp:74 Allocating persistent connection range (15-15) and dedicated persistent connection range (-1--1) for .
+2016-12-20 13:16:52.381 SfB[417:1af74bc40] INFO TRANSPORT CHttpStreamPool.cpp:74 Allocating persistent connection range (16-16) and dedicated persistent connection range (-1--1) for MetaDataManager.
+2016-12-20 13:16:52.382 SfB[417:1af74bc40] INFO UTILITIES XmlSerializer.cpp:426 Exit.
+2016-12-20 13:16:52.382 SfB[417:1af74bc40] VERBOSE APPLICATION CApplication.cpp:3452 Initialize Internal -- Done starting Transport Manager
+2016-12-20 13:16:52.384 SfB[417:1af74bc40] VERBOSE APPLICATION CApplication.cpp:3460 Initialize Internal -- Done with Application Information
+2016-12-20 13:16:52.387 SfB[417:1af74bc40] INFO TRANSPORT CCredentialManager.cpp:172 setUsernamePasswordCredential creating credential: credType (1) signInName (testuser1@tdl.lv) domain () username () password.empty() (0) certificate.isValid() (0) privateKey.empty() (1) compatibleServiceIds(1)
+2016-12-20 13:16:52.387 SfB[417:1af74bc40] INFO TRANSPORT CCredentialManager.cpp:207 useCredentialsForExchange called with useOcsCredentials = 1
+2016-12-20 13:16:52.388 SfB[417:1af74bc40] VERBOSE APPLICATION CApplication.cpp:3470 Initialize Internal -- Load From Storage Complete
+2016-12-20 13:16:52.388 SfB[417:1af74bc40] VERBOSE APPLICATION CApplication.cpp:3486 Initialize Internal -- Done with EWS User Agents
+2016-12-20 13:16:52.388 SfB[417:1af74bc40] INFO APPLICATION CPersonsAndGroupsDataExpirationChecker.cpp:249 Person dyn-data validity changed to 'invalid'
+2016-12-20 13:16:52.389 SfB[417:1af74bc40] INFO APPLICATION CPeopleChangeNotificationSubscription.cpp:323 Scheduled refresh in 1sec
+2016-12-20 13:16:52.420 SfB[417:1af74bc40] VERBOSE APPLICATION CApplication.cpp:3498 Initialize Internal -- Done with Person And Groups Manager
+2016-12-20 13:16:52.420 SfB[417:1af74bc40] VERBOSE APPLICATION CApplication.cpp:3510 Initialize Internal -- Done with Trust Model
+2016-12-20 13:16:52.420 SfB[417:1af74bc40] INFO APPLICATION CUcwaAutoDiscoveryService.cpp:750 Deserialized sipuri=sip:testuser1@tdl.lv ucwa=https://webext.tdl.lv/ucwa/v1/applications ucwaInternal=https://pool.tdl.lv/ucwa/v1/applications externalUcwa=https://webext.tdl.lv/ucwa/v1/applications intADRoot=https://pool.tdl.lv/Autodiscover/AutodiscoverService.svc/root extADRoot=https://webext.tdl.lv/Autodiscover/AutodiscoverService.svc/root location=1 clienttelemetryurl= internalCertProvisioningUrl =https://pool.tdl.lv/CertProv/CertProvisioningService.svc externalCertProvisioningUrl =https://webext.tdl.lv/CertProv/CertProvisioningService.svc
+2016-12-20 13:16:52.421 SfB[417:1af74bc40] VERBOSE APPLICATION CApplication.cpp:3520 Initialize Internal -- Done with Auto Discovery Transport Manager
+2016-12-20 13:16:52.421 SfB[417:1af74bc40] INFO APPLICATION CUcwaDataSynchronizer.cpp:1017 Mode 0 scheduled to timeout in 60sec
+2016-12-20 13:16:52.421 SfB[417:1af74bc40] VERBOSE APPLICATION CApplication.cpp:3525 Initialize Internal -- Done with UCWA Data Synchronizer
+2016-12-20 13:16:52.423 SfB[417:1af74bc40] VERBOSE APPLICATION CApplication.cpp:3530 Initialize Internal -- Done with Source Network Icon Provider
+2016-12-20 13:16:52.423 SfB[417:1af74bc40] INFO APPLICATION CPersistentStorageCleaner.cpp:326 (Re-)Schedulling cleanup run in 49667sec
+2016-12-20 13:16:52.423 SfB[417:1af74bc40] VERBOSE APPLICATION CApplication.cpp:3536 Initialize Internal -- Done with Persistent Storage Cleaner
+2016-12-20 13:16:52.424 SfB[417:1af74bc40] INFO TRANSPORT CCredentialManager.cpp:172 getSpecificCredential for serviceId(1) returning: credType (1) signInName (testuser1@tdl.lv) domain () username (testuser1@tdl.lv) password.empty() (0) certificate.isValid() (0) privateKey.empty() (1) compatibleServiceIds(1)
+2016-12-20 13:16:52.424 SfB[417:1af74bc40] INFO APPLICATION CEwsAttachmentManager.cpp:196 Scheduling cleanup run in 85653sec
+2016-12-20 13:16:52.424 SfB[417:1af74bc40] VERBOSE APPLICATION CApplication.cpp:3551 Initialize Internal -- Done with EWS Managers
+2016-12-20 13:16:52.426 SfB[417:1af74bc40] VERBOSE APPLICATION CApplication.cpp:3561 Initialize Internal -- Done with Certificate Provisioning
+2016-12-20 13:16:52.426 SfB[417:1af74bc40] INFO APPLICATION CAuthenticationManager.cpp:446 CAuthenticationManager::deserialize() completed successfully
+2016-12-20 13:16:52.427 SfB[417:1af74bc40] VERBOSE APPLICATION CApplication.cpp:3571 Initialize Internal -- Done with Authentication Manager
+2016-12-20 13:16:52.427 SfB[417:1af74bc40] VERBOSE APPLICATION CApplication.cpp:3580 Initialize Internal -- Done with Push Notification Synchronizer
+2016-12-20 13:16:52.428 SfB[417:1af74bc40] INFO APPLICATION CUcwaAppSession.cpp:1346 Updating URLs. For Ucwa: discoveredFqdn=, applicationsRelativeUrl=, configuredInternal=, configuredExternal=, loc=1, auto-discovery=1
+2016-12-20 13:16:52.429 SfB[417:1af74bc40] INFO APPLICATION CUcwaAppSession.cpp:193 UcwaAppSession initializes with: desiredSessionState=1; autoSignIn=1; anonSession=0; url=; userName=; passwordAvailable=1; versionChange=1; didExitNormally=0; continueUcwaSessionIfAvailable=1
+2016-12-20 13:16:52.429 SfB[417:1af74bc40] INFO TRANSPORT CUcwaSession.h:65 Updating app instance URL from  -> 
+2016-12-20 13:16:52.429 SfB[417:1af74bc40] INFO APPLICATION CApplication.cpp:4740 Setting signInCorrelationId eb7c9ec5-6714-419b-a1d6-e076060e97ac
+2016-12-20 13:16:52.430 SfB[417:16df57000] INFO UTILITIES CBackgroundTask.mm:36 Background task UcwaAppSession-Startup(Id=1) started with timer 30.000000 seconds.
+2016-12-20 13:16:52.431 SfB[417:1af74bc40] INFO APPLICATION CUcwaAppSession.cpp:1048 CUcwaAppSession canceling all requests
+2016-12-20 13:16:52.431 SfB[417:1af74bc40] INFO APPLICATION CUcwaAppSession.cpp:701 Sending AutoDiscovery request (in sign-in sequence)
+2016-12-20 13:16:52.432 SfB[417:1af74bc40] INFO APPLICATION CUcwaAutoDiscoveryServiceRetrialWrapper.cpp:545 Timer cancelled. OnResume = 0
+2016-12-20 13:16:52.432 SfB[417:1af74bc40] INFO APPLICATION CAlertReporter.cpp:116 Alert cleared of Category 1, Type 201, cleared 0 alerts
+2016-12-20 13:16:52.432 SfB[417:1af74bc40] INFO APPLICATION CUcwaAutoDiscoveryService.cpp:2407 suspensionState = 2
+2016-12-20 13:16:52.433 SfB[417:1af74bc40] INFO APPLICATION CUcwaAutoDiscoveryService.cpp:2382 adIsEnabled = 1, sipUri = sip:testuser1@tdl.lv, m_internalADUrlInput = , m_externalADUrlInput = 
+2016-12-20 13:16:52.433 SfB[417:1af74bc40] INFO APPLICATION CUcwaAutoDiscoveryService.cpp:1107 Discover UCWA urls for sip:testuser1@tdl.lv
+2016-12-20 13:16:52.433 SfB[417:1af74bc40] INFO TRANSPORT TransportUtilityFunctions.cpp:525 Extracted tdl.lv from sip:testuser1@tdl.lv
+2016-12-20 13:16:52.433 SfB[417:1af74bc40] INFO APPLICATION CUcwaAutoDiscoveryService.cpp:1178 Starting Lync Discovery with urls http://lyncdiscoverinternal.tdl.lv/?sipuri=sip:testuser1@tdl.lv and http://lyncdiscover.tdl.lv/?sipuri=sip:testuser1@tdl.lv
+2016-12-20 13:16:52.434 SfB[417:1af74bc40] INFO APPLICATION CUrlRedirectAndTrustResolver.cpp:77 Starting CUrlRedirectAndTrustResolver with url = https://lyncdiscover.tdl.lv/?sipuri=sip:testuser1@tdl.lv, maxHops = 10
+2016-12-20 13:16:52.434 SfB[417:1af74bc40] INFO APPLICATION CUrlRedirectAndTrustResolver.cpp:200 CUrlRedirectAndTrustResolver::processUrl called with url = https://lyncdiscover.tdl.lv/, hopCount = 0, maxHops = 10
+2016-12-20 13:16:52.434 SfB[417:1af74bc40] INFO APPLICATION CUrlRedirectAndTrustResolver.cpp:598 UrlRedirectAndTrustResolver complete with url = https://lyncdiscover.tdl.lv/, Hops = 0, status = S_OK (S0-0-0)
+2016-12-20 13:16:52.435 SfB[417:1af74bc40] INFO TRANSPORT CTransportThread.cpp:132 Added Request(UcwaAutoDiscoveryRequest) to Request Processor queue
+2016-12-20 13:16:52.435 SfB[417:1af74bc40] INFO TRANSPORT CTransportThread.cpp:227 Created thread => context[0x74240240]
+2016-12-20 13:16:52.435 SfB[417:16e213000] INFO TRANSPORT CTransportThread.cpp:397 Started executing thread => context[0x74240240]
+2016-12-20 13:16:52.435 SfB[417:1af74bc40] INFO APPLICATION CTransportRequestRetrialQueue.cpp:378 Submitting new req. GET-UnAuthenticatedGet(0x10440d600)
+2016-12-20 13:16:52.436 SfB[417:1af74bc40] INFO APPLICATION CUcwaAutoDiscoveryService.cpp:2089 Successfully started the GetUserUrlOperation request for https://lyncdiscover.tdl.lv/?sipuri=sip:testuser1@tdl.lv
+2016-12-20 13:16:52.436 SfB[417:16e213000] INFO TRANSPORT CTransportThread.cpp:343 Sent Request(UcwaAutoDiscoveryRequest) to Request Processor
+2016-12-20 13:16:52.436 SfB[417:1af74bc40] INFO APPLICATION CUrlRedirectAndTrustResolver.cpp:77 Starting CUrlRedirectAndTrustResolver with url = http://lyncdiscover.tdl.lv/?sipuri=sip:testuser1@tdl.lv, maxHops = 10
+2016-12-20 13:16:52.436 SfB[417:16e213000] WARNING TRANSPORT CCredentialManager.cpp:291 CCredentialManager::getSpecificCredential returning NULL credential for serviceId (4) type (1)!
+2016-12-20 13:16:52.436 SfB[417:1af74bc40] INFO APPLICATION CUrlRedirectAndTrustResolver.cpp:200 CUrlRedirectAndTrustResolver::processUrl called with url = http://lyncdiscover.tdl.lv/, hopCount = 0, maxHops = 10
+2016-12-20 13:16:52.436 SfB[417:1af74bc40] INFO TRANSPORT CTransportThread.cpp:132 Added Request(UcwaAutoDiscoveryRequest) to Request Processor queue
+2016-12-20 13:16:52.436 SfB[417:16e213000] INFO TRANSPORT TransportUtilityFunctions.cpp:719 <SentRequest>
+GET https://lyncdiscover.tdl.lv/?sipuri=sip:testuser1@tdl.lv
+Request Id: 0x10440d600
+HttpHeader:Accept application/vnd.microsoft.rtc.autodiscover+xml;v=1
+</SentRequest>
+2016-12-20 13:16:52.437 SfB[417:1af74bc40] INFO APPLICATION CTransportRequestRetrialQueue.cpp:378 Submitting new req. UrlTrustResolver(0x10440de30)
+2016-12-20 13:16:52.437 SfB[417:1af74bc40] INFO APPLICATION CUcwaAutoDiscoveryService.cpp:2089 Successfully started the GetUserUrlOperation request for http://lyncdiscover.tdl.lv/?sipuri=sip:testuser1@tdl.lv
+2016-12-20 13:16:52.437 SfB[417:1af74bc40] INFO APPLICATION CUrlRedirectAndTrustResolver.cpp:77 Starting CUrlRedirectAndTrustResolver with url = https://lyncdiscoverinternal.tdl.lv/?sipuri=sip:testuser1@tdl.lv, maxHops = 10
+2016-12-20 13:16:52.438 SfB[417:1af74bc40] INFO APPLICATION CUrlRedirectAndTrustResolver.cpp:200 CUrlRedirectAndTrustResolver::processUrl called with url = https://lyncdiscoverinternal.tdl.lv/, hopCount = 0, maxHops = 10
+2016-12-20 13:16:52.438 SfB[417:1af74bc40] INFO APPLICATION CUrlRedirectAndTrustResolver.cpp:598 UrlRedirectAndTrustResolver complete with url = https://lyncdiscoverinternal.tdl.lv/, Hops = 0, status = S_OK (S0-0-0)
+2016-12-20 13:16:52.438 SfB[417:1af74bc40] INFO TRANSPORT CTransportThread.cpp:132 Added Request(UcwaAutoDiscoveryRequest) to Request Processor queue
+2016-12-20 13:16:52.438 SfB[417:1af74bc40] INFO APPLICATION CTransportRequestRetrialQueue.cpp:378 Submitting new req. GET-UnAuthenticatedGet(0x104405170)
+2016-12-20 13:16:52.438 SfB[417:16e213000] INFO UTILITIES CHttpStreamPool.cpp:399 Allocating stream 0x70109480 for url - https://lyncdiscover.tdl.lv/ with persistent id as 6
+2016-12-20 13:16:52.439 SfB[417:1af74bc40] INFO APPLICATION CUcwaAutoDiscoveryService.cpp:2089 Successfully started the GetUserUrlOperation request for https://lyncdiscoverinternal.tdl.lv/?sipuri=sip:testuser1@tdl.lv
+2016-12-20 13:16:52.439 SfB[417:1af74bc40] INFO APPLICATION CUrlRedirectAndTrustResolver.cpp:77 Starting CUrlRedirectAndTrustResolver with url = http://lyncdiscoverinternal.tdl.lv/?sipuri=sip:testuser1@tdl.lv, maxHops = 10
+2016-12-20 13:16:52.439 SfB[417:1af74bc40] INFO APPLICATION CUrlRedirectAndTrustResolver.cpp:200 CUrlRedirectAndTrustResolver::processUrl called with url = http://lyncdiscoverinternal.tdl.lv/, hopCount = 0, maxHops = 10
+2016-12-20 13:16:52.439 SfB[417:1af74bc40] INFO TRANSPORT CTransportThread.cpp:132 Added Request(UcwaAutoDiscoveryRequest) to Request Processor queue
+2016-12-20 13:16:52.440 SfB[417:1af74bc40] INFO APPLICATION CTransportRequestRetrialQueue.cpp:378 Submitting new req. UrlTrustResolver(0x10440eaf0)
+2016-12-20 13:16:52.440 SfB[417:16e213000] VERBOSE TRANSPORT CHttpProxyHelper.cpp:434 CHttpProxyHelper::discoverProxy : No proxy found for url https://lyncdiscover.tdl.lv/?sipuri=sip:testuser1@tdl.lv. Sending over direct connection.
+2016-12-20 13:16:52.440 SfB[417:1af74bc40] INFO APPLICATION CUcwaAutoDiscoveryService.cpp:2089 Successfully started the GetUserUrlOperation request for http://lyncdiscoverinternal.tdl.lv/?sipuri=sip:testuser1@tdl.lv
+2016-12-20 13:16:52.440 SfB[417:1af74bc40] INFO TRANSPORT TransportUtilityFunctions.cpp:525 Extracted tdl.lv from sip:testuser1@tdl.lv
+2016-12-20 13:16:52.441 SfB[417:1af74bc40] INFO APPLICATION CUcwaAppSession.cpp:1070 CUcwaAppSession::setNewActualState() state=1
+2016-12-20 13:16:52.441 SfB[417:1af74bc40] VERBOSE APPLICATION CApplication.cpp:3604 Initialize Internal -- Done with UCWA App Session
+2016-12-20 13:16:52.442 SfB[417:1af74bc40] INFO APPLICATION CClientProfile.cpp:425 CClientProfile::deserialize() called
+2016-12-20 13:16:52.442 SfB[417:1af74bc40] VERBOSE APPLICATION CApplication.cpp:3614 Initialize Internal -- Done with Client Profile
+2016-12-20 13:16:52.443 SfB[417:1af74bc40] INFO APPLICATION CConfiguration.cpp:1627 CConfiguration::deserialize() called
+2016-12-20 13:16:52.443 SfB[417:1af74bc40] INFO APPLICATION CConfiguration.cpp:2188 Current settings in CConfiguration: enableEmoticons(1) enableMultiviewJoin(1) enableHtmlIM(0) enableUrlsInIM(1) photoAllowed(1) enableOutsideVoice(1) requireWifiForAudio(0) requireWifiForVideo(1) requireWifiForAudioPolicy(0) requireWifiForVidoPolicy(0) requireWifiForCollab(1) requireWifiForCollabPolicy(0) p2pAudioEnabledByPolicy(1) p2pVideoEnabledByPolicy(1) allowDeviceContactsSync(1), allowDeviceContactsSyncPolicy(1) simulRingCouplingEnabled(0), exchangeUMEnabled(0), audioVideoEnabledByClient(1) enableCallLogArchiving(1) enableMessageArchiving(1) ttyEnabled(0)enableTelemetry(0) telemetryEnabledByUser(0) requireFirstRun(0) phoneAddressBookSearchEnabled(1) pushNotificationEnabled(1) wifiDetectionTimeoutInSeconds(3) localRingTimeInSeconds(30) voicemailPlaybackRate(1) saveCredentials(1) m_isVideoBasedScreenSharingEnabled(0) clientExchangeConnectivity(1) maxConversationsCount(150) conversationHistoryPageSize(50) isEnhancedEmergencyServiceEnabled(0) userMode(2) audioPreference(0) audioPreferenceToPublish(0) voicemailUri(sip:testuser1@tdl.lv;opaque=app:voicemail), emergencyDialMask(), emergencyDialString()
+2016-12-20 13:16:52.444 SfB[417:1af74bc40] VERBOSE APPLICATION CApplication.cpp:3624 Initialize Internal -- Done with Configuration Object
+2016-12-20 13:16:52.444 SfB[417:1af74bc40] INFO APPLICATION CLocationManager.cpp:623 CLocationManager::deserialize() called
+2016-12-20 13:16:52.445 SfB[417:1af74bc40] VERBOSE APPLICATION CApplication.cpp:3634 Initialize Internal -- Done with Location Manager
+2016-12-20 13:16:52.446 SfB[417:16e213000] INFO UTILITIES CTimer.cpp:227 Created timer instance (0x74280e38) for runloop (0x70362880)
+2016-12-20 13:16:52.446 SfB[417:16e213000] INFO TRANSPORT CTransportThread.cpp:343 Sent Request(UcwaAutoDiscoveryRequest) to Request Processor
+2016-12-20 13:16:52.447 SfB[417:16e213000] WARNING TRANSPORT CCredentialManager.cpp:291 CCredentialManager::getSpecificCredential returning NULL credential for serviceId (4) type (1)!
+2016-12-20 13:16:52.447 SfB[417:16e213000] INFO TRANSPORT TransportUtilityFunctions.cpp:719 <SentRequest>
+GET http://lyncdiscover.tdl.lv/
+Request Id: 0x10440de30
+HttpHeader:Accept application/vnd.microsoft.rtc.autodiscover+xml;v=1
+</SentRequest>
+2016-12-20 13:16:52.448 SfB[417:16e213000] INFO UTILITIES CHttpStreamPool.cpp:399 Allocating stream 0x74107860 for url - http://lyncdiscover.tdl.lv/ with persistent id as 7
+2016-12-20 13:16:52.448 SfB[417:16e213000] VERBOSE TRANSPORT CHttpProxyHelper.cpp:434 CHttpProxyHelper::discoverProxy : No proxy found for url http://lyncdiscover.tdl.lv/. Sending over direct connection.
+2016-12-20 13:16:52.449 SfB[417:16e213000] INFO TRANSPORT CHttpStreamPool.cpp:546 Not setting TLS as the url(http://lyncdiscover.tdl.lv/) is not https
+2016-12-20 13:16:52.449 SfB[417:16e213000] INFO TRANSPORT CTransportThread.cpp:343 Sent Request(UcwaAutoDiscoveryRequest) to Request Processor
+2016-12-20 13:16:52.450 SfB[417:16e213000] WARNING TRANSPORT CCredentialManager.cpp:291 CCredentialManager::getSpecificCredential returning NULL credential for serviceId (4) type (1)!
+2016-12-20 13:16:52.450 SfB[417:16e213000] INFO TRANSPORT TransportUtilityFunctions.cpp:719 <SentRequest>
+GET https://lyncdiscoverinternal.tdl.lv/?sipuri=sip:testuser1@tdl.lv
+Request Id: 0x104405170
+HttpHeader:Accept application/vnd.microsoft.rtc.autodiscover+xml;v=1
+</SentRequest>
+2016-12-20 13:16:52.451 SfB[417:16e213000] INFO UTILITIES CHttpStreamPool.cpp:208 (Index = 6, Usage Counter = 1)(Index = 7, Usage Counter = 1)
+2016-12-20 13:16:52.451 SfB[417:16e213000] INFO UTILITIES CHttpStreamPool.cpp:408 Allocating stream 0x74107aa0 for url - https://lyncdiscoverinternal.tdl.lv/ persistent id as dynamic
+2016-12-20 13:16:52.451 SfB[417:16e213000] VERBOSE TRANSPORT CHttpProxyHelper.cpp:434 CHttpProxyHelper::discoverProxy : No proxy found for url https://lyncdiscoverinternal.tdl.lv/?sipuri=sip:testuser1@tdl.lv. Sending over direct connection.
+2016-12-20 13:16:52.452 SfB[417:16e213000] INFO TRANSPORT CTransportThread.cpp:343 Sent Request(UcwaAutoDiscoveryRequest) to Request Processor
+2016-12-20 13:16:52.452 SfB[417:16e213000] WARNING TRANSPORT CCredentialManager.cpp:291 CCredentialManager::getSpecificCredential returning NULL credential for serviceId (4) type (1)!
+2016-12-20 13:16:52.452 SfB[417:16e213000] INFO TRANSPORT TransportUtilityFunctions.cpp:719 <SentRequest>
+GET http://lyncdiscoverinternal.tdl.lv/
+Request Id: 0x10440eaf0
+HttpHeader:Accept application/vnd.microsoft.rtc.autodiscover+xml;v=1
+</SentRequest>
+2016-12-20 13:16:52.452 SfB[417:1af74bc40] INFO MMINTEGRATION CMediaPlatformWrapper.cpp:93 CMediaPlatformWrapper::initialize() called
+2016-12-20 13:16:52.452 SfB[417:16e213000] INFO UTILITIES CHttpStreamPool.cpp:208 (Index = 6, Usage Counter = 1)(Index = 7, Usage Counter = 1)
+2016-12-20 13:16:52.453 SfB[417:16e213000] INFO UTILITIES CHttpStreamPool.cpp:408 Allocating stream 0x70109e10 for url - http://lyncdiscoverinternal.tdl.lv/ persistent id as dynamic
+2016-12-20 13:16:52.453 SfB[417:16e213000] VERBOSE TRANSPORT CHttpProxyHelper.cpp:434 CHttpProxyHelper::discoverProxy : No proxy found for url http://lyncdiscoverinternal.tdl.lv/. Sending over direct connection.
+2016-12-20 13:16:52.453 SfB[417:16e213000] INFO TRANSPORT CHttpStreamPool.cpp:546 Not setting TLS as the url(http://lyncdiscoverinternal.tdl.lv/) is not https
+2016-12-20 13:16:52.478 SfB[417:16e78b000] INFO MMINTEGRATION CMediaPlatformWrapper.cpp:928 CMediaPlatformWrapper::DevicePnpEvent called
+2016-12-20 13:16:52.478 SfB[417:16e78b000] INFO MMINTEGRATION CMediaPlatformWrapper.cpp:1010 CMediaCallWrapper::fireMediaPlatformEvent() called with type 1
+2016-12-20 13:16:52.478 SfB[417:16e78b000] INFO MMINTEGRATION CMediaDeviceWrapper.cpp:38 CMediaDeviceWrapper::release() called
+2016-12-20 13:16:52.479 SfB[417:16e78b000] INFO MMINTEGRATION CMediaPlatformWrapper.cpp:928 CMediaPlatformWrapper::DevicePnpEvent called
+2016-12-20 13:16:52.479 SfB[417:16e78b000] INFO MMINTEGRATION CMediaPlatformWrapper.cpp:1010 CMediaCallWrapper::fireMediaPlatformEvent() called with type 1
+2016-12-20 13:16:52.479 SfB[417:1af74bc40] VERBOSE APPLICATION CApplication.cpp:3667 Initialize Internal -- Done with media platform
+2016-12-20 13:16:52.479 SfB[417:16e78b000] INFO MMINTEGRATION CMediaDeviceWrapper.cpp:38 CMediaDeviceWrapper::release() called
+2016-12-20 13:16:52.479 SfB[417:16e78b000] INFO MMINTEGRATION CMediaPlatformWrapper.cpp:928 CMediaPlatformWrapper::DevicePnpEvent called
+2016-12-20 13:16:52.480 SfB[417:1af74bc40] INFO APPLICATION CUcmpConversationsManager.cpp:3003 CUcmpConversationsManager::deserialize() started
+2016-12-20 13:16:52.480 SfB[417:1af74bc40] INFO APPLICATION CUcmpMrasHelper.cpp:625 CUcmpMrasHelper::deserialize() called
+2016-12-20 13:16:52.480 SfB[417:1af74bc40] INFO APPLICATION CUcmpMrasHelper.cpp:663 CUcmpMrasHelper::deserialize : deserialized mrasToken with2 relays, m_httpProxy = , m_httpProxyResolvedIPAddress = m_httpProxyPort = -1
+2016-12-20 13:16:52.481 SfB[417:16e78b000] INFO MMINTEGRATION CMediaPlatformWrapper.cpp:1010 CMediaCallWrapper::fireMediaPlatformEvent() called with type 1
+2016-12-20 13:16:52.481 SfB[417:1af74bc40] INFO APPLICATION CUcmpConversationsManager.cpp:3782 CUcmpConversationsManager::deserialize() completed successfully
+2016-12-20 13:16:52.481 SfB[417:1af74bc40] INFO APPLICATION CUcmpMrasHelper.cpp:255 CUcmpMrasHelper::applyMrasTokenToMediaPlatform()
+2016-12-20 13:16:52.482 SfB[417:1af74bc40] VERBOSE TRANSPORT CHttpProxyHelper.cpp:434 CHttpProxyHelper::discoverProxy : No proxy found for url http://sip.tdl.lv. Sending over direct connection.
+2016-12-20 13:16:52.482 SfB[417:1af74bc40] INFO APPLICATION CUcmpMrasHelper.cpp:343 CUcmpMrasHelper::applyMrasTokenToMediaPlatform(), httpProxy = ,httpProxyPort = -1, previous proxy = , previous proxy IP addr = , previous proxy port = -1
+2016-12-20 13:16:52.482 SfB[417:1af74bc40] INFO MMINTEGRATION CMediaPlatformWrapper.cpp:703 CMediaPlatformWrapper::applyMrasToken() called with numRelays = 2, httpProxy = , httpProxyPort = -1
+2016-12-20 13:16:52.482 SfB[417:1af74bc40] WARNING APPLICATION CUcmpMrasHelper.cpp:419 CUcmpMrasHelper::applyMrasTokenToMediaPlatform() applying 2 relays and HTTP proxy :-1 to media platform, error = S_OK (S0-0-0)
+2016-12-20 13:16:52.483 SfB[417:1af74bc40] INFO APPLICATION CUcmpMrasHelper.cpp:553 CUcmpMrasHelper::restartMrasTimer() restart the timer for 456 minutes from now for renewal
+2016-12-20 13:16:52.483 SfB[417:1af74bc40] INFO MMINTEGRATION CMediaPlatformWrapper.cpp:315 CMediaPlatformWrapper::setDeviceRotation() called with Rotation 0
+2016-12-20 13:16:52.483 SfB[417:1af74bc40] INFO APPLICATION CUcmpConversationsManager.cpp:1654 CUcmpConversationsManager::getAudioDevices() called.
+2016-12-20 13:16:52.483 SfB[417:1af74bc40] INFO MMINTEGRATION CMediaPlatformWrapper.cpp:545 Number of devices of type (65536), with direction (2) registered with media platform is (1).
+2016-12-20 13:16:52.483 SfB[417:1af74bc40] INFO MMINTEGRATION CMediaPlatformWrapper.cpp:545 Number of devices of type (65536), with direction (1) registered with media platform is (1).
+2016-12-20 13:16:52.484 SfB[417:1af74bc40] INFO APPLICATION CUcmpConversationsManager.cpp:1743 CUcmpConversationsManager::setDefaultAudioDevice() called.
+2016-12-20 13:16:52.484 SfB[417:1af74bc40] INFO MMINTEGRATION CMediaPlatformWrapper.cpp:379 CMediaPlatformWrapper::setDefaultAudioDevice() called with MediaDirection 2
+2016-12-20 13:16:52.484 SfB[417:1af74bc40] INFO MMINTEGRATION CMediaPlatformWrapper.cpp:379 CMediaPlatformWrapper::setDefaultAudioDevice() called with MediaDirection 1
+2016-12-20 13:16:52.484 SfB[417:1af74bc40] INFO MMINTEGRATION CMediaDeviceWrapper.cpp:38 CMediaDeviceWrapper::release() called
+2016-12-20 13:16:52.485 SfB[417:1af74bc40] INFO MMINTEGRATION CMediaDeviceWrapper.cpp:38 CMediaDeviceWrapper::release() called
+2016-12-20 13:16:52.485 SfB[417:1af74bc40] INFO APPLICATION CUcmpConversationsManager.cpp:1867 CUcmpConversationsManager::getVideoCaptureDevices() called.
+2016-12-20 13:16:52.485 SfB[417:1af74bc40] INFO MMINTEGRATION CMediaPlatformWrapper.cpp:545 Number of devices of type (131072), with direction (1) registered with media platform is (2).
+2016-12-20 13:16:52.485 SfB[417:1af74bc40] INFO APPLICATION CUcmpConversationsManager.cpp:1966 CUcmpConversationsManager::setDefaultVideoCaptureDevice() called.
+2016-12-20 13:16:52.485 SfB[417:1af74bc40] INFO MMINTEGRATION CMediaPlatformWrapper.cpp:420 CMediaPlatformWrapper::setDefaultVideoDevice() called with MediaDirection 1
+2016-12-20 13:16:52.486 SfB[417:1af74bc40] INFO MMINTEGRATION CMediaDeviceWrapper.cpp:38 CMediaDeviceWrapper::release() called
+2016-12-20 13:16:52.486 SfB[417:1af74bc40] INFO MMINTEGRATION CMediaDeviceWrapper.cpp:38 CMediaDeviceWrapper::release() called
+2016-12-20 13:16:52.486 SfB[417:1af74bc40] VERBOSE APPLICATION CApplication.cpp:3680 Initialize Internal -- Done with Conversations Manager
+2016-12-20 13:16:52.486 SfB[417:1af74bc40] VERBOSE APPLICATION CApplication.cpp:3685 Initialize Internal -- Done with User Activity Publisher
+2016-12-20 13:16:52.487 SfB[417:1af74bc40] INFO APPLICATION CPassiveAuthenticationManager.cpp:287 CPassiveAuthenticationManager::deserialize() completed successfully
+2016-12-20 13:16:52.487 SfB[417:1af74bc40] VERBOSE APPLICATION CApplication.cpp:3690 Initialize Internal -- Done with Passive Auth Manager
+2016-12-20 13:16:52.487 SfB[417:1af74bc40] VERBOSE APPLICATION CApplication.cpp:3695 Initialize Internal -- Done with Meetings Manager
+2016-12-20 13:16:52.487 SfB[417:1af74bc40] VERBOSE APPLICATION CApplication.cpp:3708 Initialize Internal -- Done Registering Listeners
+2016-12-20 13:16:52.487 SfB[417:1af74bc40] INFO APPLICATION CGuestSessionsManager.cpp:72 Guest session manager initialized
+2016-12-20 13:16:52.488 SfB[417:1af74bc40] INFO APPLICATION CApplication.cpp:3735 Initialize Internal Complete
+2016-12-20 13:16:52.489 SfB[417:1af74bc40] INFO UI SFBPerformanceLogger.m:54 ActivateIntune (0.000149 sec)
+2016-12-20 13:16:52.489 SfB[417:1af74bc40] INFO UI SFBPerformanceLogger.m:54 UntilDidFinishLaunchingWithOptions (0.189691 sec)
+2016-12-20 13:16:52.490 SfB[417:1af74bc40] INFO UI SFBAppDelegate.mm:81 Application did finish launching with options
+2016-12-20 13:16:52.490 SfB[417:16e78b000] INFO MMINTEGRATION CMediaPlatformWrapper.cpp:928 CMediaPlatformWrapper::DevicePnpEvent called
+2016-12-20 13:16:52.490 SfB[417:16e78b000] INFO MMINTEGRATION CMediaPlatformWrapper.cpp:1010 CMediaCallWrapper::fireMediaPlatformEvent() called with type 1
+2016-12-20 13:16:52.548 SfB[417:1af74bc40] INFO UI SFBAppDelegate.mm:346 File protection is enabled.
+2016-12-20 13:16:52.549 SfB[417:1af74bc40] INFO UI SFBAppDelegate.mm:361 iCloud backup is disabled.
+2016-12-20 13:16:52.560 SfB[417:1af74bc40] INFO APPLICATION CUcmpConversationsManager.cpp:7211 CUcmpConversationsManager::deleteMissedConversations() called
+2016-12-20 13:16:52.560 SfB[417:1af74bc40] INFO APPLICATION CUcmpConversationsManager.cpp:7217 Skipping missed conv delete due app context validity
+2016-12-20 13:16:52.563 SfB[417:1af74bc40] INFO APPLICATION CUcmpConversation.cpp:2775 CConversation::deserialize() called
+2016-12-20 13:16:52.564 SfB[417:1af74bc40] INFO APPLICATION CUcmpParticipant.cpp:429 Initialize called for participant (key bc7adadb-dfa5-4d4b-b34e-62d22f2080a3) in conversation (key 163de2c7-469a-4c63-98c4-0c79de77ef11)
+2016-12-20 13:16:52.567 SfB[417:1af74bc40] INFO APPLICATION CUcmpParticipant.cpp:429 Initialize called for participant (key 5360ac32-6b21-4fad-b8c6-845ac954557f) in conversation (key 163de2c7-469a-4c63-98c4-0c79de77ef11)
+2016-12-20 13:16:52.568 SfB[417:1af74bc40] INFO APPLICATION CUcmpConversation.cpp:3324 CConversation::deserialize() complete.  Key = 163de2c7-469a-4c63-98c4-0c79de77ef11, SelfHref = 
+2016-12-20 13:16:52.568 SfB[417:1af74bc40] INFO APPLICATION CUcmpConversation.cpp:467 CConversation::initialize() called, conversation (key 163de2c7-469a-4c63-98c4-0c79de77ef11)
+2016-12-20 13:16:52.569 SfB[417:1af74bc40] ERROR UI SFBConfiguration.m:152 Unable to set the application type on client profile: E_ActionNotAvailable (E3-8-1)
+2016-12-20 13:16:52.569 SfB[417:1af74bc40] ERROR UI SFBConfiguration.m:162 Unable to set OAuth enabled flag: E_ActionNotAvailable (E3-8-1)
+2016-12-20 13:16:52.585 SfB[417:1af74bc40] INFO UI AuthorizationManager.swift:84 Authorization state changed from SignedOut to SigningIn
+2016-12-20 13:16:52.585 SfB[417:1af74bc40] INFO UI AuthorizationManager.swift:143 UcwaConnectivity changed: Disconnected
+2016-12-20 13:16:52.588 SfB[417:1af74bc40] INFO UI TelemetryDataHelper.swift:119 Updated correlation id from UCMP eb7c9ec5-6714-419b-a1d6-e076060e97ac
+2016-12-20 13:16:52.591 SfB[417:1af74bc40] INFO UI SFBLocalyticsTelemetryProvider.m:57 Localytics: registered
+2016-12-20 13:16:52.591 SfB[417:1af74bc40] INFO UI SFBTelemetryTracingProvider.mm:20 Telemetry Service Tier:IPATelemetryPrivacyTier1, event:SignInStarted, Attributes:{
+    InitiationPoint = AppStart;
+    SignInCorrelationId = "eb7c9ec5-6714-419b-a1d6-e076060e97ac";
+2016-12-20 13:16:52.592 SfB[417:1af74bc40] INFO UI SFBTelemetryTracingProvider.mm:20 Telemetry Service Tier:IPATelemetryPrivacyTier2, event:SignInCorrelationIdChanged, Attributes:{
+    SignInCorrelationId = "eb7c9ec5-6714-419b-a1d6-e076060e97ac";
+2016-12-20 13:16:52.593 SfB[417:1af74bc40] INFO UI SFBUIManager.m:139 updateRootViewControllerWithDesiredState: 1 andActualState:1
+2016-12-20 13:16:52.593 SfB[417:1af74bc40] INFO UI SFBUIManager.m:261 IpaApplication:isAnonymousFallbackMeetingInProgress = 0
+2016-12-20 13:16:52.594 SfB[417:1af74bc40] INFO UI SFBUIManager.m:262 IpaApplication:isAnonymousSession = 0
+2016-12-20 13:16:52.594 SfB[417:1af74bc40] INFO UI SFBUIManager.m:146 currentRootViewControllerType: 0, desiredRootViewControllerType:4
+2016-12-20 13:16:52.624 SfB[417:1af74bc40] INFO UI DomainObjectPool.swift:189 DOP: Request conversation for key: 163de2c7-469a-4c63-98c4-0c79de77ef11
+2016-12-20 13:16:52.624 SfB[417:1af74bc40] INFO UI SFBConversation.m:1120 update wasAudioActive: NO
+2016-12-20 13:16:52.624 SfB[417:1af74bc40] INFO UI SFBConversation.m:3410 update isInActiveCall: NO
+2016-12-20 13:16:52.624 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:16:52.625 SfB[417:1af74bc40] INFO APPLICATION CPresenceSubscription.cpp:254 Start refresh interval on initial URI addition
+2016-12-20 13:16:52.625 SfB[417:1af74bc40] INFO APPLICATION CPresenceSubscription.cpp:721 Refresh scheduled for in 1500sec
+2016-12-20 13:16:52.625 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:16:52.626 SfB[417:1af74bc40] INFO UI SFBDataCollaborationViewModel.m:87 -[SFBDataCollaborationViewModel updateActiveContentFromIPA]
+2016-12-20 13:16:52.626 SfB[417:1af74bc40] INFO UI SFBDataCollaborationViewModel.m:126 -[SFBDataCollaborationViewModel updateContentManagerFromIPA]
+2016-12-20 13:16:52.626 SfB[417:1af74bc40] INFO APPLICATION CUcmpVideoModality.cpp:662 CUcmpVideoModality::getMediaDirection returning direction = 4
+2016-12-20 13:16:52.626 SfB[417:1af74bc40] ERROR UI SFBConversation.m:1105 Unable to invoke action send message. Error: E_NotAvailableOffline (E0-0-5)
+2016-12-20 13:16:52.627 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:16:52.627 SfB[417:1af74bc40] INFO UI DomainObjectPool.swift:201 DOP: Created new conversation for key: 163de2c7-469a-4c63-98c4-0c79de77ef11
+2016-12-20 13:16:52.641 SfB[417:16e213000] INFO UTILITIES CHttpConnection.cpp:593 Received kCFStreamEventEndEncountered (UcwaAutoDiscoveryRequest)isHeadersAvailable = true  responseHeadersHandle = 422eae0
+2016-12-20 13:16:52.642 SfB[417:16e213000] INFO UTILITIES CHttpConnection.cpp:665 Response status = 406 for request UcwaAutoDiscoveryRequest
+2016-12-20 13:16:52.642 SfB[417:16e213000] INFO UTILITIES CHttpStreamPool.cpp:445 Scheduling stream 0x74107860 for release.
+2016-12-20 13:16:52.642 SfB[417:16e213000] INFO TRANSPORT CHttpRequestProcessor.cpp:173 Received response of request(UcwaAutoDiscoveryRequest) with status = 0x0
+2016-12-20 13:16:52.643 SfB[417:16e213000] INFO TRANSPORT TransportUtilityFunctions.cpp:1115 <ReceivedResponse>
+GET http://lyncdiscover.tdl.lv/
+Request Id: 0x10440de30
+HttpHeader:Cache-Control private
+HttpHeader:Content-Length 4882
+HttpHeader:Content-Type text/html; charset=utf-8
+HttpHeader:Date Tue, 20 Dec 2016 13:16:52 GMT
+HttpHeader:Server Microsoft-IIS/8.5
+HttpHeader:StatusCode 406
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+<head> 
+<title>IIS 8.5 Detailed Error - 406.0 - Not Acceptable</title> 
+<style type="text/css"> 
+body{margin:0;font-size:.7em;font-family:Verdana,Arial,Helvetica,sans-serif;} 
+code{margin:0;color:#006600;font-size:1.1em;font-weight:bold;} 
+.config_source code{font-size:.8em;color:#000000;} 
+pre{margin:0;font-size:1.4em;word-wrap:break-word;} 
+ul,ol{margin:10px 0 10px 5px;} 
+ul.first,ol.first{margin-top:5px;} 
+fieldset{padding:0 15px 10px 15px;word-break:break-all;} 
+.summary-container fieldset{padding-bottom:5px;margin-top:4px;} 
+legend.no-expand-all{padding:2px 15px 4px 10px;margin:0 0 0 -12px;} 
+legend{color:#333333;;margin:4px 0 8px -12px;_margin-top:0px; 
+font-weight:bold;font-size:1em;} 
+a:link,a:visited{color:#007EFF;font-weight:bold;} 
+a:hover{text-decoration:none;} 
+h1{font-size:2.4em;margin:0;color:#FFF;} 
+h2{font-size:1.7em;margin:0;color:#CC0000;} 
+h3{font-size:1.4em;margin:10px 0 0 0;color:#CC0000;} 
+h4{font-size:1.2em;margin:10px 0 5px 0; 
+}#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS",Verdana,sans-serif; 
+ color:#FFF;background-color:#5C87B2; 
+}#content{margin:0 0 0 2%;position:relative;} 
+.summary-container,.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;} 
+.content-container p{margin:0 0 10px 0; 
+}#details-left{width:35%;float:left;margin-right:2%; 
+}#details-right{width:63%;float:left;overflow:hidden; 
+}#server_version{width:96%;_height:1px;min-height:1px;margin:0 0 5px 0;padding:11px 2% 8px 2%;color:#FFFFFF; 
+ background-color:#5A7FA5;border-bottom:1px solid #C1CFDD;border-top:1px solid #4A6C8E;font-weight:normal; 
+ font-size:1em;color:#FFF;text-align:right; 
+}#server_version p{margin:5px 0;} 
+table{margin:4px 0 4px 0;width:100%;border:none;} 
+td,th{vertical-align:top;padding:3px 0;text-align:left;font-weight:normal;border:none;} 
+th{width:30%;text-align:right;padding-right:2%;font-weight:bold;} 
+thead th{background-color:#ebebeb;width:25%; 
+}#details-right th{width:20%;} 
+table tr.alt td,table tr.alt th{} 
+.highlight-code{color:#CC0000;font-weight:bold;font-style:italic;} 
+.clear{clear:both;} 
+.preferred{padding:0 5px 2px 5px;font-weight:normal;background:#006633;color:#FFF;font-size:.8em;} 
+</style> 
+</head> 
+<body> 
+<div id="content"> 
+<div class="content-container"> 
+  <h3>HTTP Error 406.0 - Not Acceptable</h3> 
+  <h4>The resource cannot be displayed because the file extension is not being accepted by your browser.</h4> 
+<div class="content-container"> 
+ <fieldset><h4>Most likely causes:</h4> 
+  <ul> 	<li>The request was rejected because it contained an Accept header for a MIME type that is not supported for the requested file extension.</li> </ul> 
+ </fieldset> 
+<div class="content-container"> 
+ <fieldset><h4>Things you can try:</h4> 
+  <ul> 	<li>Verify the MIME settings for the file extension that was requested to make sure this MIME type is acceptable.</li> </ul> 
+ </fieldset> 
+<div class="content-container"> 
+ <fieldset><h4>Detailed Error Information:</h4> 
+  <div id="details-left"> 
+   <table border="0" cellpadding="0" cellspacing="0"> 
+    <tr class="alt"><th>Module</th><td>&nbsp;&nbsp;&nbsp;StaticFileModule</td></tr> 
+    <tr><th>Notification</th><td>&nbsp;&nbsp;&nbsp;ExecuteRequestHandler</td></tr> 
+    <tr class="alt"><th>Handler</th><td>&nbsp;&nbsp;&nbsp;StaticFile</td></tr> 
+    <tr><th>Error Code</th><td>&nbsp;&nbsp;&nbsp;0x00000000</td></tr> 
+   </table> 
+  <div id="details-right"> 
+   <table border="0" cellpadding="0" cellspacing="0"> 
+    <tr class="alt"><th>Requested URL</th><td>&nbsp;&nbsp;&nbsp;http://lyncdiscover.tdl.lv:80/index.htm</td></tr> 
+    <tr><th>Physical Path</th><td>&nbsp;&nbsp;&nbsp;C:\inetpub\wwwroot\index.htm</td></tr> 
+    <tr class="alt"><th>Logon Method</th><td>&nbsp;&nbsp;&nbsp;Anonymous</td></tr> 
+    <tr><th>Logon User</th><td>&nbsp;&nbsp;&nbsp;Anonymous</td></tr> 
+   </table> 
+   <div class="clear"></div> 
+ </fieldset> 
+<div class="content-container"> 
+ <fieldset><h4>More Information:</h4> 
+  This error occurs when the client requests a file with a certain file extension and then specifies the Accept header with a MIME type that is different from the configuration of this file extension on the server. An example is requesting a file with the .doc extension and specifying an Accept header with text/xml instead of application/msword. Usually the client specifies */* for the Accept header, which allows the request to serve any MIME type. 
+  <p><a href="http://go.microsoft.com/fwlink/?LinkID=62293&amp;IIS70Error=406,0,0x00000000,9600">View more information &raquo;</a></p> 
+ </fieldset> 
+</body> 
+</ReceivedResponse>
+2016-12-20 13:16:52.643 SfB[417:16e213000] INFO TRANSPORT CHttpRequestProcessor.cpp:270 Sending event to main thread for request(0x440de30)
+2016-12-20 13:16:52.643 SfB[417:16e213000] INFO UTILITIES CHttpConnection.cpp:593 Received kCFStreamEventEndEncountered (UcwaAutoDiscoveryRequest)isHeadersAvailable = true  responseHeadersHandle = 44153e0
+2016-12-20 13:16:52.643 SfB[417:16e213000] INFO UTILITIES CHttpConnection.cpp:665 Response status = 406 for request UcwaAutoDiscoveryRequest
+2016-12-20 13:16:52.644 SfB[417:16e213000] INFO UTILITIES CHttpStreamPool.cpp:445 Scheduling stream 0x70109e10 for release.
+2016-12-20 13:16:52.644 SfB[417:16e213000] INFO TRANSPORT CHttpRequestProcessor.cpp:173 Received response of request(UcwaAutoDiscoveryRequest) with status = 0x0
+2016-12-20 13:16:52.644 SfB[417:16e213000] INFO TRANSPORT TransportUtilityFunctions.cpp:1115 <ReceivedResponse>
+GET http://lyncdiscoverinternal.tdl.lv/
+Request Id: 0x10440eaf0
+HttpHeader:Cache-Control private
+HttpHeader:Connection close
+HttpHeader:Content-Length 4890
+HttpHeader:Content-Type text/html; charset=utf-8
+HttpHeader:Date Tue, 20 Dec 2016 13:16:52 GMT
+HttpHeader:Server Microsoft-IIS/8.5
+HttpHeader:StatusCode 406
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+<head> 
+<title>IIS 8.5 Detailed Error - 406.0 - Not Acceptable</title> 
+<style type="text/css"> 
+body{margin:0;font-size:.7em;font-family:Verdana,Arial,Helvetica,sans-serif;} 
+code{margin:0;color:#006600;font-size:1.1em;font-weight:bold;} 
+.config_source code{font-size:.8em;color:#000000;} 
+pre{margin:0;font-size:1.4em;word-wrap:break-word;} 
+ul,ol{margin:10px 0 10px 5px;} 
+ul.first,ol.first{margin-top:5px;} 
+fieldset{padding:0 15px 10px 15px;word-break:break-all;} 
+.summary-container fieldset{padding-bottom:5px;margin-top:4px;} 
+legend.no-expand-all{padding:2px 15px 4px 10px;margin:0 0 0 -12px;} 
+legend{color:#333333;;margin:4px 0 8px -12px;_margin-top:0px; 
+font-weight:bold;font-size:1em;} 
+a:link,a:visited{color:#007EFF;font-weight:bold;} 
+a:hover{text-decoration:none;} 
+h1{font-size:2.4em;margin:0;color:#FFF;} 
+h2{font-size:1.7em;margin:0;color:#CC0000;} 
+h3{font-size:1.4em;margin:10px 0 0 0;color:#CC0000;} 
+h4{font-size:1.2em;margin:10px 0 5px 0; 
+}#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS",Verdana,sans-serif; 
+ color:#FFF;background-color:#5C87B2; 
+}#content{margin:0 0 0 2%;position:relative;} 
+.summary-container,.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;} 
+.content-container p{margin:0 0 10px 0; 
+}#details-left{width:35%;float:left;margin-right:2%; 
+}#details-right{width:63%;float:left;overflow:hidden; 
+}#server_version{width:96%;_height:1px;min-height:1px;margin:0 0 5px 0;padding:11px 2% 8px 2%;color:#FFFFFF; 
+ background-color:#5A7FA5;border-bottom:1px solid #C1CFDD;border-top:1px solid #4A6C8E;font-weight:normal; 
+ font-size:1em;color:#FFF;text-align:right; 
+}#server_version p{margin:5px 0;} 
+table{margin:4px 0 4px 0;width:100%;border:none;} 
+td,th{vertical-align:top;padding:3px 0;text-align:left;font-weight:normal;border:none;} 
+th{width:30%;text-align:right;padding-right:2%;font-weight:bold;} 
+thead th{background-color:#ebebeb;width:25%; 
+}#details-right th{width:20%;} 
+table tr.alt td,table tr.alt th{} 
+.highlight-code{color:#CC0000;font-weight:bold;font-style:italic;} 
+.clear{clear:both;} 
+.preferred{padding:0 5px 2px 5px;font-weight:normal;background:#006633;color:#FFF;font-size:.8em;} 
+</style> 
+</head> 
+<body> 
+<div id="content"> 
+<div class="content-container"> 
+  <h3>HTTP Error 406.0 - Not Acceptable</h3> 
+  <h4>The resource cannot be displayed because the file extension is not being accepted by your browser.</h4> 
+<div class="content-container"> 
+ <fieldset><h4>Most likely causes:</h4> 
+  <ul> 	<li>The request was rejected because it contained an Accept header for a MIME type that is not supported for the requested file extension.</li> </ul> 
+ </fieldset> 
+<div class="content-container"> 
+ <fieldset><h4>Things you can try:</h4> 
+  <ul> 	<li>Verify the MIME settings for the file extension that was requested to make sure this MIME type is acceptable.</li> </ul> 
+ </fieldset> 
+<div class="content-container"> 
+ <fieldset><h4>Detailed Error Information:</h4> 
+  <div id="details-left"> 
+   <table border="0" cellpadding="0" cellspacing="0"> 
+    <tr class="alt"><th>Module</th><td>&nbsp;&nbsp;&nbsp;StaticFileModule</td></tr> 
+    <tr><th>Notification</th><td>&nbsp;&nbsp;&nbsp;ExecuteRequestHandler</td></tr> 
+    <tr class="alt"><th>Handler</th><td>&nbsp;&nbsp;&nbsp;StaticFile</td></tr> 
+    <tr><th>Error Code</th><td>&nbsp;&nbsp;&nbsp;0x00000000</td></tr> 
+   </table> 
+  <div id="details-right"> 
+   <table border="0" cellpadding="0" cellspacing="0"> 
+    <tr class="alt"><th>Requested URL</th><td>&nbsp;&nbsp;&nbsp;http://lyncdiscoverinternal.tdl.lv:80/index.htm</td></tr> 
+    <tr><th>Physical Path</th><td>&nbsp;&nbsp;&nbsp;C:\inetpub\wwwroot\index.htm</td></tr> 
+    <tr class="alt"><th>Logon Method</th><td>&nbsp;&nbsp;&nbsp;Anonymous</td></tr> 
+    <tr><th>Logon User</th><td>&nbsp;&nbsp;&nbsp;Anonymous</td></tr> 
+   </table> 
+   <div class="clear"></div> 
+ </fieldset> 
+<div class="content-container"> 
+ <fieldset><h4>More Information:</h4> 
+  This error occurs when the client requests a file with a certain file extension and then specifies the Accept header with a MIME type that is different from the configuration of this file extension on the server. An example is requesting a file with the .doc extension and specifying an Accept header with text/xml instead of application/msword. Usually the client specifies */* for the Accept header, which allows the request to serve any MIME type. 
+  <p><a href="http://go.microsoft.com/fwlink/?LinkID=62293&amp;IIS70Error=406,0,0x00000000,9600">View more information &raquo;</a></p> 
+ </fieldset> 
+</body> 
+</ReceivedResponse>
+2016-12-20 13:16:52.644 SfB[417:16e213000] INFO TRANSPORT CHttpRequestProcessor.cpp:270 Sending event to main thread for request(0x440eaf0)
+2016-12-20 13:16:52.652 SfB[417:1af74bc40] INFO UI SFBAppDelegate.mm:369 handleLocalNotifications with state 1
+2016-12-20 13:16:52.654 SfB[417:1af74bc40] INFO UI SFBApnsPushNotificationsManager.m:47 VoIP APNS push registration initiated.
+2016-12-20 13:16:52.660 SfB[417:1af74bc40] INFO UI SFBPerformanceLogger.m:54 DidFinishLaunchingWithOptions (0.170621 sec)
+2016-12-20 13:16:52.661 SfB[417:16e213000] WARNING TRANSPORT CHttpConnection.cpp:1042 Request Type = UcwaAutoDiscoveryRequest, Error domain = NSOSStatusErrorDomain, code = -9807, detailedCode = errSSLXCertChainInvalid,ErrorDescription = The operation couldn’t be completed. (OSStatus error -9807.),ErrorFailureReason =  
+2016-12-20 13:16:52.662 SfB[417:16e213000] INFO UTILITIES CHttpStreamPool.cpp:599 Releasing stream 0x70109e10.
+2016-12-20 13:16:52.662 SfB[417:16e213000] INFO UTILITIES CHttpStreamPool.cpp:467 Releasing stream 0x74107aa0.
+2016-12-20 13:16:52.662 SfB[417:16e213000] INFO UTILITIES CHttpStreamPool.cpp:599 Releasing stream 0x74107aa0.
+2016-12-20 13:16:52.664 SfB[417:16e213000] INFO TRANSPORT CHttpRequestProcessor.cpp:173 Received response of request(UcwaAutoDiscoveryRequest) with status = 0x22020001
+2016-12-20 13:16:52.664 SfB[417:1af74bc40] INFO UI SFBAppDelegate.mm:415 notification userinfo = (null)
+2016-12-20 13:16:52.665 SfB[417:16e213000] INFO TRANSPORT CHttpRequestProcessor.cpp:201 Request UcwaAutoDiscoveryRequest resulted in E_ConnectionError (E2-2-1). The retry counter is: 0
+2016-12-20 13:16:52.665 SfB[417:16e213000] WARNING TRANSPORT CCredentialManager.cpp:291 CCredentialManager::getSpecificCredential returning NULL credential for serviceId (4) type (1)!
+2016-12-20 13:16:52.665 SfB[417:16e213000] INFO TRANSPORT TransportUtilityFunctions.cpp:719 <SentRequest>
+GET https://lyncdiscoverinternal.tdl.lv/?sipuri=sip:testuser1@tdl.lv
+Request Id: 0x104405170
+HttpHeader:Accept application/vnd.microsoft.rtc.autodiscover+xml;v=1
+</SentRequest>
+2016-12-20 13:16:52.665 SfB[417:16e213000] INFO UTILITIES CHttpStreamPool.cpp:399 Allocating stream 0x74107bc0 for url - https://lyncdiscoverinternal.tdl.lv/ with persistent id as 7
+2016-12-20 13:16:52.665 SfB[417:1af74bc40] INFO UI SFBAppDelegate.mm:207 Application did become active
+2016-12-20 13:16:52.666 SfB[417:16e213000] VERBOSE TRANSPORT CHttpProxyHelper.cpp:434 CHttpProxyHelper::discoverProxy : No proxy found for url https://lyncdiscoverinternal.tdl.lv/?sipuri=sip:testuser1@tdl.lv. Sending over direct connection.
+2016-12-20 13:16:52.666 SfB[417:16e213000] INFO UTILITIES CHttpStreamPool.cpp:599 Releasing stream 0x74107860.
+2016-12-20 13:16:52.681 SfB[417:1af74bc40] INFO UI SFBLocalyticsTelemetryProvider.m:87 Localytics: session opened
+2016-12-20 13:16:52.681 SfB[417:1af74bc40] INFO UI SFBTelemetryTracingProvider.mm:30 Telemetry Service update custom dimension:SignInState with value:Signing In
+2016-12-20 13:16:52.682 SfB[417:1af74bc40] INFO UI SFBTelemetryTracingProvider.mm:30 Telemetry Service update custom dimension:ServerDeploymentInfo with value:Unknown
+2016-12-20 13:16:52.682 SfB[417:1af74bc40] INFO UI SFBTelemetryTracingProvider.mm:30 Telemetry Service update custom dimension:TelemetryEnabled with value:No
+2016-12-20 13:16:52.682 SfB[417:1af74bc40] INFO UI SFBCallKitManager.m:46 Allow device contact sync policy is enabled.
+2016-12-20 13:16:52.682 SfB[417:1af74bc40] INFO UI SFBCallKitManager.m:49 Call log archiving policy is enabled.
+2016-12-20 13:16:52.683 SfB[417:1af74bc40] INFO UI SFBCallKitManager.m:54 Is iPad: NO.
+2016-12-20 13:16:52.684 SfB[417:1af74bc40] INFO UI SFBCallKitManager.m:68 Mobile interaction enabled in settings: YES.
+2016-12-20 13:16:52.684 SfB[417:1af74bc40] INFO UI SFBTelemetryTracingProvider.mm:30 Telemetry Service update custom dimension:CallKitEnabled with value:Yes
+2016-12-20 13:16:52.685 SfB[417:1af74bc40] INFO APPLICATION CPeopleChangeNotificationSubscription.cpp:335 Refresh schedule stopped
+2016-12-20 13:16:52.685 SfB[417:16e3b7000] WARNING UI SFBFilterUrlProtocol.mm:85 ADT: SFBFilterUrlProtocol - LOADING URL:
+  https://analytics.localytics.com/api/v2/applications/f4d7c4eb495b4f002a9465a-86066a04-f746-11e4-b991-00eba64cb0ec/uploads
+2016-12-20 13:16:52.685 SfB[417:16e3b7000] WARNING UI SFBFilterUrlProtocol.mm:85 ADT: SFBFilterUrlProtocol - LOADING URL:
+  https://analytics.localytics.com/api/v2/applications/f4d7c4eb495b4f002a9465a-86066a04-f746-11e4-b991-00eba64cb0ec/amp
+2016-12-20 13:16:52.686 SfB[417:1af74bc40] INFO UTILITIES CTimer.cpp:123 Verifying timers for time shift correction, instancePtr(0x70286428)
+2016-12-20 13:16:52.686 SfB[417:1af74bc40] INFO UTILITIES CTimer.cpp:134 Completed time shift correction, instancePtr(0x70286428)
+2016-12-20 13:16:52.686 SfB[417:1af74bc40] INFO UI SFBPerformanceLogger.m:54 ApplicationDidBecomeActive (0.020869 sec)
+2016-12-20 13:16:52.690 SfB[417:1af74bc40] INFO UI SFBTimelineViewController.m:443 Refreshing calendar items since application became active.
+2016-12-20 13:16:52.690 SfB[417:1af74bc40] INFO UI SFBTimelineViewModelManager.m:378 Refreshing upcoming meetings.
+2016-12-20 13:16:52.691 SfB[417:1af74bc40] INFO UI SFBTimelineViewModelManager.m:412 No new upcoming meetings were found in the 0 meetings returned from EWS.
+2016-12-20 13:16:52.691 SfB[417:1af74bc40] INFO UI SFBTimelineViewModelManager.m:190 Attempting to sync calendar if enough time have passed since last sync. Last sync was at 2016-12-20 13:08:56 +0000
+2016-12-20 13:16:52.691 SfB[417:1af74bc40] INFO UI SFBTimelineViewModelManager.m:199 Finished syncing calendar. Last sync was at 2016-12-20 13:08:56 +0000
+2016-12-20 13:16:52.700 SfB[417:16e213000] WARNING TRANSPORT CHttpConnection.cpp:1042 Request Type = UcwaAutoDiscoveryRequest, Error domain = NSOSStatusErrorDomain, code = -9807, detailedCode = errSSLXCertChainInvalid,ErrorDescription = The operation couldn’t be completed. (OSStatus error -9807.),ErrorFailureReason =  
+2016-12-20 13:16:52.701 SfB[417:16e213000] INFO UTILITIES CHttpStreamPool.cpp:467 Releasing stream 0x74107bc0.
+2016-12-20 13:16:52.701 SfB[417:16e213000] INFO UTILITIES CHttpStreamPool.cpp:599 Releasing stream 0x74107bc0.
+2016-12-20 13:16:52.701 SfB[417:16e213000] INFO TRANSPORT CHttpRequestProcessor.cpp:173 Received response of request(UcwaAutoDiscoveryRequest) with status = 0x22020001
+2016-12-20 13:16:52.701 SfB[417:16e213000] INFO TRANSPORT CHttpRequestProcessor.cpp:201 Request UcwaAutoDiscoveryRequest resulted in E_ConnectionError (E2-2-1). The retry counter is: 1
